@@ -16,5 +16,5 @@ use OCP\AppFramework\App;
 $app = new App('files_external_aws');
 $container = $app->getContainer();
 
-\OCP\Util::addScript( 'files_external_aws', "script");
+\OCP\Util::addScript( 'files_external_aws', "usage");
 \OCP\Util::addStyle( 'files_external_aws', "style");

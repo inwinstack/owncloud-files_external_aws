@@ -1,5 +1,5 @@
 <?php
-script('files_external_aws', 'script');
+script('files_external_aws', 'usage');
 style('files_external_aws', 'style');
 ?>
 
